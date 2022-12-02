@@ -1,0 +1,9 @@
+CMake Error at /home/rupak/esp/esp-idf/tools/cmake/build.cmake:264 (message):
+  Failed to resolve component 'screen'.
+Call Stack (most recent call first):
+  /home/rupak/esp/esp-idf/tools/cmake/build.cmake:306 (__build_resolve_and_add_req)
+  /home/rupak/esp/esp-idf/tools/cmake/build.cmake:593 (__build_expand_requirements)
+  /home/rupak/esp/esp-idf/tools/cmake/project.cmake:447 (idf_build_process)
+  CMakeLists.txt:3 (project)
+
+

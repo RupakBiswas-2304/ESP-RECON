@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

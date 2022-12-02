@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/CMakeFiles/bootloader-complete.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
