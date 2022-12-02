@@ -1,0 +1,41 @@
+[0/1] Re-running CMake...
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file /home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig
+Loading defaults file /home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults...
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults:16 CONFIG_FLASHMODE_QIO was replaced with CONFIG_ESPTOOLPY_FLASHMODE_QIO
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults:26 CONFIG_MONITOR_BAUD was replaced with CONFIG_ESPTOOLPY_MONITOR_BAUD
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults:39 CONFIG_ESP32_DEFAULT_CPU_FREQ_240 was replaced with CONFIG_ESP_DEFAULT_CPU_FREQ_MHZ_240
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults:40 CONFIG_ESP32_DEFAULT_CPU_FREQ_MHZ was replaced with CONFIG_ESP_DEFAULT_CPU_FREQ_MHZ
+/home/rupak/Desktop/esp32/mprojects/ESP-RECON/sdkconfig.defaults:42 CONFIG_ESP32_SPIRAM_SUPPORT was replaced with CONFIG_SPIRAM
+/tmp/kconfgen_tmpc50uuagr:32 line was updated to CONFIG_ENABLE_TEST_PATTERN=n
+/tmp/kconfgen_tmpc50uuagr:34 line was updated to CONFIG_OV7725_SUPPORT=n
+/tmp/kconfgen_tmpc50uuagr:49 line was updated to CONFIG_SPIRAM_USE_MALLOC=n
+-- App "Digit" version: 1f2fa13-dirty
+-- Adding linker script /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /home/rupak/esp/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt bus cmock console cxx driver efuse esp-nn esp-tls esp32-camera esp_adc esp_app_format esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_netif esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs fb_gfx freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport tflite-lib ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: /home/rupak/esp/esp-idf/components/app_trace /home/rupak/esp/esp-idf/components/app_update /home/rupak/esp/esp-idf/components/bootloader /home/rupak/esp/esp-idf/components/bootloader_support /home/rupak/esp/esp-idf/components/bt /home/rupak/Desktop/esp32/mprojects/ESP-RECON/components/bus /home/rupak/esp/esp-idf/components/cmock /home/rupak/esp/esp-idf/components/console /home/rupak/esp/esp-idf/components/cxx /home/rupak/esp/esp-idf/components/driver /home/rupak/esp/esp-idf/components/efuse /home/rupak/Desktop/esp32/mprojects/ESP-RECON/components/esp-nn /home/rupak/esp/esp-idf/components/esp-tls /home/rupak/Desktop/esp32/mprojects/ESP-RECON/components/esp32-camera /home/rupak/esp/esp-idf/components/esp_adc /home/rupak/esp/esp-idf/components/esp_app_format /home/rupak/esp/esp-idf/components/esp_common /home/rupak/esp/esp-idf/components/esp_eth /home/rupak/esp/esp-idf/components/esp_event /home/rupak/esp/esp-idf/components/esp_gdbstub /home/rupak/esp/esp-idf/components/esp_hid /home/rupak/esp/esp-idf/components/esp_http_client /home/rupak/esp/esp-idf/components/esp_http_server /home/rupak/esp/esp-idf/components/esp_https_ota /home/rupak/esp/esp-idf/components/esp_https_server /home/rupak/esp/esp-idf/components/esp_hw_support /home/rupak/esp/esp-idf/components/esp_lcd /home/rupak/esp/esp-idf/components/esp_local_ctrl /home/rupak/esp/esp-idf/components/esp_netif /home/rupak/esp/esp-idf/components/esp_partition /home/rupak/esp/esp-idf/components/esp_phy /home/rupak/esp/esp-idf/components/esp_pm /home/rupak/esp/esp-idf/components/esp_psram /home/rupak/esp/esp-idf/components/esp_ringbuf /home/rupak/esp/esp-idf/components/esp_rom /home/rupak/esp/esp-idf/components/esp_system /home/rupak/esp/esp-idf/components/esp_timer /home/rupak/esp/esp-idf/components/esp_wifi /home/rupak/esp/esp-idf/components/espcoredump /home/rupak/esp/esp-idf/components/esptool_py /home/rupak/esp/esp-idf/components/fatfs /home/rupak/Desktop/esp32/mprojects/ESP-RECON/components/fb_gfx /home/rupak/esp/esp-idf/components/freertos /home/rupak/esp/esp-idf/components/hal /home/rupak/esp/esp-idf/components/heap /home/rupak/esp/esp-idf/components/http_parser /home/rupak/esp/esp-idf/components/idf_test /home/rupak/esp/esp-idf/components/ieee802154 /home/rupak/esp/esp-idf/components/json /home/rupak/esp/esp-idf/components/log /home/rupak/esp/esp-idf/components/lwip /home/rupak/Desktop/esp32/mprojects/ESP-RECON/main /home/rupak/esp/esp-idf/components/mbedtls /home/rupak/esp/esp-idf/components/mqtt /home/rupak/esp/esp-idf/components/newlib /home/rupak/esp/esp-idf/components/nvs_flash /home/rupak/esp/esp-idf/components/openthread /home/rupak/esp/esp-idf/components/partition_table /home/rupak/esp/esp-idf/components/perfmon /home/rupak/esp/esp-idf/components/protobuf-c /home/rupak/esp/esp-idf/components/protocomm /home/rupak/esp/esp-idf/components/pthread /home/rupak/esp/esp-idf/components/sdmmc /home/rupak/esp/esp-idf/components/soc /home/rupak/esp/esp-idf/components/spi_flash /home/rupak/esp/esp-idf/components/spiffs /home/rupak/esp/esp-idf/components/tcp_transport /home/rupak/Desktop/esp32/mprojects/ESP-RECON/components/tflite-lib /home/rupak/esp/esp-idf/components/ulp /home/rupak/esp/esp-idf/components/unity /home/rupak/esp/esp-idf/components/usb /home/rupak/esp/esp-idf/components/vfs /home/rupak/esp/esp-idf/components/wear_levelling /home/rupak/esp/esp-idf/components/wifi_provisioning /home/rupak/esp/esp-idf/components/wpa_supplicant /home/rupak/esp/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build
+[1/9] Building C object esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj
+[2/9] Performing build step for 'bootloader'
+[1/1] cd /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/esp-idf/esptool_py && /home/rupak/.espressif/python_env/idf5.1_py3.10_env/bin/python /home/rupak/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/bootloader.bin
+Bootloader binary size 0x6df0 bytes. 0x210 bytes (2%) free.
+[3/7] Linking C static library esp-idf/esp_app_format/libesp_app_format.a
+[4/7] Generating ld/sections.ld
+[5/7] Linking CXX executable Digit.elf
+[6/7] Generating binary image from built executable
+esptool.py v4.4
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/Digit.bin
+[7/7] cd /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/esp-idf/esptool_py && /home/rupak/.espressif/python_env/idf5.1_py3.10_env/bin/python /home/rupak/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/partition_table/partition-table.bin /home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/Digit.bin
+Digit.bin binary size 0x9cf10 bytes. Smallest app partition is 0x180000 bytes. 0xe30f0 bytes (59%) free.

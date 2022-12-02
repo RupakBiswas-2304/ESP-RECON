@@ -103,3 +103,7 @@
 8331	8661	1669996728195384652	/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/.bin_timestamp	fc19b02dc20b0a16
 8661	8823	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
 8661	8823	0	/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
+4	66	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
+4	66	0	/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
+3	66	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
+3	66	0	/home/rupak/Desktop/esp32/mprojects/ESP-RECON/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	11837f47692f285
